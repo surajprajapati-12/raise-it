@@ -44,7 +44,7 @@ app.use(xss());
 
 app.get('/', (req,res) => {
   res.send("Hi there")
-}
+})
 
 const authRouter = require('./routes/auth')
 const userRouter = require('./routes/user')
