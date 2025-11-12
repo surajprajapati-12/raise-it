@@ -210,17 +210,11 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - **Open Source Community** - For the amazing tools and libraries
 - **Contributors** - For their valuable contributions
 
-## 📞 Support
-
-For support and questions:
-- **Email**: grievanceportaliiita4@gmail.com
-- **Issues**: [GitHub Issues](https://github.com/optimus-prime-01/raise-it/issues)
-- **Documentation**: Check the docs folder for detailed guides
 
 ## 🌟 Live Demo
 
-- **Frontend**: [https://raise-it-eight.vercel.app](https://raise-it-eight.vercel.app)
-- **Backend API**: [https://raise-it-8q0f.onrender.com](https://raise-it-8q0f.onrender.com)
+- **Frontend**: [https://raise-it-mms3.vercel.app](https://raise-it-mms3.vercel.app)
+- **Backend API**: [https://raise-it-two.vercel.app](https://raise-it-two.vercel.app)
 
 ---
 
