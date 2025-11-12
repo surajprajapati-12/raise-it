@@ -34,7 +34,7 @@ app.use(cors({
   origin: [
     'http://localhost:5173', 
     'http://localhost:5174',
-    'https://raise-it-eight.vercel.app'  // Your production frontend URL
+    'https://raise-it-mms3.vercel.app'  // Your production frontend URL
   ],
   credentials: true
 }));
