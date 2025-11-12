@@ -42,6 +42,10 @@ app.use(xss());
 
 // extra packages
 
+app.get('/', (req,res) => {
+  res.send("Hi there")
+}
+
 const authRouter = require('./routes/auth')
 const userRouter = require('./routes/user')
 const officerRouter = require('./routes/officer')
